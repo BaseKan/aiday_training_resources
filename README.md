@@ -1,1 +1,1 @@
-# aiday_training_recources
+# aiday_training_resources
